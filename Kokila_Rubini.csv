@@ -1,0 +1,801 @@
+Date,Time,Name,Chat,scores,compound,Negtive,Postive,Neutral,comp_score,Topic,Flirting_Encoded
+08/09/25,11:27 pm,Kokila Venkatesh,You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+08/09/25,11:28 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/09/25,6:36 am,Rubhini Hope,The endgoal of AI is your solution,"{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.3182}",0.3182,0.0,0.277,0.723,pos,4,0
+09/09/25,9:31 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/09/25,9:32 am,Kokila Venkatesh,So coding also has to be done mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+09/09/25,9:38 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/09/25,9:43 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+09/09/25,9:43 am,Kokila Venkatesh,Got it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+09/09/25,9:44 am,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+15/10/25,6:47 am,Rubhini Hope,"Hi Kokila V, I hope your learning journey is going well! It’s time for our 15-day check-in. Could you please share an update on your progress? We’d love to know how things are going and if there’s anything we can assist you with. Looking forward to your update!","{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.944}",0.944,0.0,0.294,0.706,pos,3,1
+15/10/25,9:44 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+12/11/25,6:47 am,Rubhini Hope,"Hi Kokila V, I hope your learning journey is going well! It’s time for our 15-day check-in. Could you please share an update on your progress? We’d love to know how things are going and if there’s anything we can assist you with. Looking forward to your update!","{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.944}",0.944,0.0,0.294,0.706,pos,3,1
+21/11/25,12:29 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/11/25,6:47 am,Rubhini Hope,"Hi Kokila V, I hope your learning journey is going well! It’s time for our 15-day check-in. Could you please share an update on your progress? We’d love to know how things are going and if there’s anything we can assist you with. Looking forward to your update!","{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.944}",0.944,0.0,0.294,0.706,pos,3,1
+16/12/25,7:49 pm,Kokila Venkatesh,Mam kindly send me the link to login in laptop,"{'neg': 0.0, 'neu': 0.738, 'pos': 0.262, 'compound': 0.4939}",0.4939,0.0,0.262,0.738,pos,2,0
+16/12/25,8:12 pm,Rubhini Hope,Web Bowser Login https://courses.hopelearning.net/register Android App Link https://play.google.com/store/apps/details?id=com.edmingle.hopeartificialintelligence IOS App Link https://apps.apple.com/app/hope-ai/id6469032181 Community link https://chat.whatsapp.com/EbOkdAgdFjv52Y18zzB8LZ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+20/12/25,11:27 am,Kokila Venkatesh,Mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+20/12/25,11:27 am,Kokila Venkatesh,Good morning,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}",0.4404,0.0,0.744,0.256,pos,3,0
+20/12/25,11:27 am,Rubhini Hope,Good morning,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}",0.4404,0.0,0.744,0.256,pos,3,0
+20/12/25,11:28 am,Kokila Venkatesh,One doubt,"{'neg': 0.714, 'neu': 0.286, 'pos': 0.0, 'compound': -0.3612}",-0.3612,0.714,0.0,0.286,neg,2,0
+20/12/25,11:28 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/12/25,11:28 am,Kokila Venkatesh,This part How to get that path?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/12/25,11:28 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/12/25,11:28 am,Kokila Venkatesh,Like those datas download pannanuma ?,"{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}",0.3612,0.0,0.385,0.615,pos,4,0
+20/12/25,11:29 am,Rubhini Hope,Couldn't get it mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+20/12/25,11:29 am,Kokila Venkatesh,Wait mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+20/12/25,11:30 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/12/25,11:33 am,Rubhini Hope,Okay mam. It's in the *download resources* module which is very next to the Ground work - Week 0. A link is shared there.. Click the link to download all the resources mam.,"{'neg': 0.0, 'neu': 0.871, 'pos': 0.129, 'compound': 0.5106}",0.5106,0.0,0.129,0.871,pos,3,0
+20/12/25,11:33 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/12/25,11:36 am,Kokila Venkatesh,Oh ok mam got it,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",0.296,0.0,0.355,0.645,pos,1,0
+20/12/25,11:36 am,Kokila Venkatesh,Thank you,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,0.0,0.714,0.286,pos,4,0
+20/12/25,11:38 am,Rubhini Hope,Okay mam👍🏻,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+21/12/25,1:57 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/12/25,1:58 pm,Kokila Venkatesh,"Regressor.fit(X_train, y_train)","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+21/12/25,1:58 pm,Kokila Venkatesh,Explain this statement mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+21/12/25,3:58 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/12/25,4:03 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+26/12/25,8:55 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/12/25,9:33 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/12/25,9:38 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+27/12/25,5:33 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/12/25,5:34 pm,Kokila Venkatesh,What's the reason for this error mam,"{'neg': 0.342, 'neu': 0.658, 'pos': 0.0, 'compound': -0.481}",-0.481,0.342,0.0,0.658,neg,2,0
+27/12/25,5:34 pm,Rubhini Hope,Check whether the 'regressor' variable is defined and executed previously <This message was edited>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,1
+27/12/25,5:36 pm,Kokila Venkatesh,Yeah got it mam,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,2,0
+27/12/25,5:37 pm,Rubhini Hope,Okay mam👍🏻,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+27/12/25,5:50 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/12/25,6:10 pm,Rubhini Hope,Okay mam. I'll share the flow in a voice note after 7:00 pm.. Until listen the lectures for the next algorithm... By listening and practicing the algorithms definitely you'll get a clear understanding on it.,"{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.8126}",0.8126,0.0,0.245,0.755,pos,3,0
+27/12/25,6:19 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+27/12/25,7:20 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/12/25,7:24 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/12/25,7:31 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+27/12/25,7:31 pm,Kokila Venkatesh,Thank you for your support,"{'neg': 0.0, 'neu': 0.366, 'pos': 0.634, 'compound': 0.6369}",0.6369,0.0,0.634,0.366,pos,4,0
+27/12/25,7:32 pm,Rubhini Hope,Okay mam.. Welcome🤝,"{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.2263}",0.2263,0.0,0.487,0.513,pos,3,0
+28/12/25,11:00 am,Kokila Venkatesh,Goodmorning mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+28/12/25,11:01 am,Kokila Venkatesh,Actually my github account is in my another laptop,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+28/12/25,11:01 am,Kokila Venkatesh,Now im using new github to  send linear regression program,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+28/12/25,1:49 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+28/12/25,4:00 pm,Rubhini Hope,Move to the uploaded repository mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+28/12/25,4:26 pm,Kokila Venkatesh,Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1,0
+28/12/25,8:28 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+28/12/25,8:28 pm,Kokila Venkatesh,Pls help me with this mam,"{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.4588}",0.4588,0.0,0.5,0.5,pos,2,0
+28/12/25,10:13 pm,Rubhini Hope,Kindly check the saved format mam,"{'neg': 0.0, 'neu': 0.4, 'pos': 0.6, 'compound': 0.7184}",0.7184,0.0,0.6,0.4,pos,2,0
+02/01/26,11:56 am,Kokila Venkatesh,Happy new year mam,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.5719,0.0,0.552,0.448,pos,2,0
+02/01/26,11:57 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+02/01/26,11:58 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+02/01/26,11:58 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+02/01/26,11:59 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+02/01/26,11:59 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+02/01/26,12:00 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+02/01/26,12:00 pm,Kokila Venkatesh,There's some problem im saving it to github,"{'neg': 0.278, 'neu': 0.722, 'pos': 0.0, 'compound': -0.4019}",-0.4019,0.278,0.0,0.722,neg,2,0
+02/01/26,12:01 pm,Kokila Venkatesh,For temporarily purpose ... I just took a photo mam So kindly refer it and guide me mam,"{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.5413}",0.5413,0.0,0.189,0.811,pos,2,0
+02/01/26,12:01 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+02/01/26,12:03 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+02/01/26,12:04 pm,Kokila Venkatesh,Ok 👍,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1,0
+02/01/26,12:08 pm,Kokila Venkatesh,Any other thoughts mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+02/01/26,12:09 pm,Rubhini Hope,Perfect🌟,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+02/01/26,12:09 pm,Rubhini Hope,Move on mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+02/01/26,12:10 pm,Kokila Venkatesh,Thank you mam 🙏,"{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}",0.3612,0.0,0.556,0.444,pos,4,0
+02/01/26,12:10 pm,Rubhini Hope,Welcome! Keep exploring✨,"{'neg': 0.0, 'neu': 0.378, 'pos': 0.622, 'compound': 0.5093}",0.5093,0.0,0.622,0.378,pos,3,0
+05/01/26,4:58 pm,Kokila Venkatesh,Mam kindly do me one favor,"{'neg': 0.0, 'neu': 0.404, 'pos': 0.596, 'compound': 0.7096}",0.7096,0.0,0.596,0.404,pos,2,0
+05/01/26,4:58 pm,Kokila Venkatesh,Whenever you're free... pls share me my github link,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}",0.3612,0.0,0.333,0.667,pos,3,0
+05/01/26,4:59 pm,Kokila Venkatesh,Coz .... I actually forgot my old github password So if you send me that link... it would be really helpful,"{'neg': 0.0, 'neu': 0.86, 'pos': 0.14, 'compound': 0.4754}",0.4754,0.0,0.14,0.86,pos,3,0
+05/01/26,4:59 pm,Kokila Venkatesh,Thank you,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,0.0,0.714,0.286,pos,4,0
+05/01/26,5:03 pm,Rubhini Hope,https://github.com/Kokila-16/1.Python,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+05/01/26,5:04 pm,Kokila Venkatesh,Thank you mam,"{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}",0.3612,0.0,0.556,0.444,pos,4,0
+06/01/26,10:41 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/01/26,10:41 pm,Kokila Venkatesh,Pls explain this one mam,"{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.0772}",0.0772,0.0,0.245,0.755,pos,2,0
+07/01/26,7:55 am,Rubhini Hope,StandardScaler is a feature-scaling technique that standardizes data so that: Mean = 0 Standard Deviation = 1 It transforms each feature independently.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+07/01/26,7:55 am,Rubhini Hope,"[50, 60, 70] Mean = 60 Std = 10","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+07/01/26,7:56 am,Rubhini Hope,Example : Mean and standard deviation is calculated for the above data and the specific column is converted into the defined range between mean=0 and standard deviation=1,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+07/01/26,7:57 am,Rubhini Hope,Using the standardization formula,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+07/01/26,8:07 am,Rubhini Hope,First we'll fit(learn)and transform(apply) to the training data(X_train) And then we'll apply the learned pattern directly to the test data without fit(without learning),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+07/01/26,8:09 am,Rubhini Hope,"If x_test is given to fit (learn) and transform, the validation will not give reliable results .. It leads to *data leakage*","{'neg': 0.0, 'neu': 0.894, 'pos': 0.106, 'compound': 0.3612}",0.3612,0.0,0.106,0.894,pos,2,0
+07/01/26,9:11 am,Kokila Venkatesh,I almost got it mam But again explain this....,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+07/01/26,10:01 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+07/01/26,10:01 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+08/01/26,8:15 am,Kokila Venkatesh,👍 thank you mam,"{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}",0.3612,0.0,0.556,0.444,pos,4,0
+08/01/26,9:12 am,Rubhini Hope,Welcome!,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5093}",0.5093,0.0,1.0,0.0,pos,3,0
+09/01/26,7:02 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/01/26,7:02 am,Kokila Venkatesh,This error indicates what mam ?,"{'neg': 0.403, 'neu': 0.597, 'pos': 0.0, 'compound': -0.4019}",-0.4019,0.403,0.0,0.597,neg,2,0
+09/01/26,7:13 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/01/26,7:18 am,Kokila Venkatesh,But I think the ML will consider True as 1 and false as 0,"{'neg': 0.0, 'neu': 0.73, 'pos': 0.27, 'compound': 0.5719}",0.5719,0.0,0.27,0.73,pos,2,0
+09/01/26,7:18 am,Kokila Venkatesh,Lemme try it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+09/01/26,7:27 am,Kokila Venkatesh,Still getting this error,"{'neg': 0.51, 'neu': 0.49, 'pos': 0.0, 'compound': -0.481}",-0.481,0.51,0.0,0.49,neg,2,0
+09/01/26,9:54 am,Rubhini Hope,Yes mam,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,0.0,0.73,0.27,pos,2,0
+09/01/26,9:55 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/01/26,9:55 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+11/01/26,6:46 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+11/01/26,10:03 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+11/01/26,10:03 pm,Rubhini Hope,import sklearn sklearn.__version__,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+11/01/26,10:04 pm,Rubhini Hope,import sys sys.version,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+11/01/26,11:38 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+11/01/26,11:38 pm,Kokila Venkatesh,Lemme try it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+12/01/26,1:55 am,Kokila Venkatesh,Where i have to apply this mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+12/01/26,6:42 am,Rubhini Hope,At the beginning of same notebook mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+12/01/26,9:16 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+15/01/26,7:28 am,Kokila Venkatesh,Happy Pongal mam 🥰,"{'neg': 0.0, 'neu': 0.351, 'pos': 0.649, 'compound': 0.5719}",0.5719,0.0,0.649,0.351,pos,2,0
+15/01/26,7:28 am,Rubhini Hope,"As earlier informed, Hope AI will be on *Pongal holidays from January 15 to 18, 2026. (Thursday to Sunday)* Our team will be back soon after the break to assist you with your learning and support queries. *Happy Pongal!* — Team Hope AI","{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.8858}",0.8858,0.0,0.231,0.769,pos,4,0
+19/01/26,6:46 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+19/01/26,6:46 am,Kokila Venkatesh,Still getting same error mam,"{'neg': 0.403, 'neu': 0.597, 'pos': 0.0, 'compound': -0.4019}",-0.4019,0.403,0.0,0.597,neg,2,0
+19/01/26,10:14 am,Rubhini Hope,import sklearn sklearn.__version__,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+19/01/26,10:14 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+19/01/26,10:24 am,Kokila Venkatesh,How to find that mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+19/01/26,10:30 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+19/01/26,10:39 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+19/01/26,10:41 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+19/01/26,10:45 am,Kokila Venkatesh,Ok mam lemme check it,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",0.296,0.0,0.355,0.645,pos,1,0
+22/01/26,6:16 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+22/01/26,6:16 am,Kokila Venkatesh,Still getting same error mam,"{'neg': 0.403, 'neu': 0.597, 'pos': 0.0, 'compound': -0.4019}",-0.4019,0.403,0.0,0.597,neg,2,0
+22/01/26,7:16 am,Kokila Venkatesh,I also tried Import sklearn Sklearn.show_versions(),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+22/01/26,7:19 am,Rubhini Hope,Okay mam.. Shall we connect by 10:15 am today,"{'neg': 0.0, 'neu': 0.808, 'pos': 0.192, 'compound': 0.2263}",0.2263,0.0,0.192,0.808,pos,3,0
+22/01/26,7:19 am,Rubhini Hope,Would you be available?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+22/01/26,7:33 am,Kokila Venkatesh,"mam, is it possible after 1 pm ?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+22/01/26,7:33 am,Kokila Venkatesh,?,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0,0
+22/01/26,7:33 am,Rubhini Hope,Okay mam. We'll connect at that time,"{'neg': 0.0, 'neu': 0.759, 'pos': 0.241, 'compound': 0.2263}",0.2263,0.0,0.241,0.759,pos,3,0
+22/01/26,6:34 pm,Kokila Venkatesh,Mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+22/01/26,6:34 pm,Kokila Venkatesh,Sorry mam I couldn't make it at correct time,"{'neg': 0.157, 'neu': 0.843, 'pos': 0.0, 'compound': -0.0772}",-0.0772,0.157,0.0,0.843,neg,2,0
+22/01/26,6:36 pm,Rubhini Hope,Okay mam. No issues.. Shall we connect after 10 mins,"{'neg': 0.182, 'neu': 0.661, 'pos': 0.157, 'compound': -0.0772}",-0.0772,0.182,0.157,0.661,neg,3,0
+22/01/26,6:41 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+22/01/26,6:41 pm,Kokila Venkatesh,Sure,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}",0.3182,0.0,1.0,0.0,pos,1,0
+22/01/26,6:58 pm,Rubhini Hope,Shall we connect amm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+22/01/26,6:58 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+22/01/26,6:58 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+22/01/26,6:58 pm,Kokila Venkatesh,Pardon mam,"{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}",0.3182,0.0,0.697,0.303,pos,2,0
+22/01/26,6:59 pm,Rubhini Hope,Ultraviewer software,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+22/01/26,6:59 pm,Kokila Venkatesh,No mam.... download pannala,"{'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.296}",-0.296,0.423,0.0,0.577,neg,2,0
+22/01/26,6:59 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+22/01/26,6:59 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+22/01/26,6:59 pm,Kokila Venkatesh,Give me some minutes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+22/01/26,7:00 pm,Rubhini Hope,Sure,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}",0.3182,0.0,1.0,0.0,pos,1,0
+22/01/26,7:14 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+22/01/26,7:14 pm,Kokila Venkatesh,It's asking like this,"{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3612}",0.3612,0.0,0.455,0.545,pos,4,0
+22/01/26,7:15 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+22/01/26,7:16 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+22/01/26,8:06 pm,Rubhini Hope,"Thank you for joining the UltraViewer earlier, which lasted 00:43:00. I trust that our discussion addressed your queries effectively. If you need any additional clarification, don't hesitate to let me know!","{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.8691}",0.8691,0.0,0.294,0.706,pos,4,0
+22/01/26,8:10 pm,Kokila Venkatesh,Ok mam sure,"{'neg': 0.0, 'neu': 0.182, 'pos': 0.818, 'compound': 0.5423}",0.5423,0.0,0.818,0.182,pos,1,0
+23/01/26,8:48 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+23/01/26,8:48 pm,Kokila Venkatesh,Is this same as that error mam ?,"{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}",-0.4019,0.31,0.0,0.69,neg,2,0
+23/01/26,9:07 pm,Kokila Venkatesh,Got it.... it was a spelling mistake mam,"{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.34}",-0.34,0.286,0.0,0.714,neg,2,0
+23/01/26,10:06 pm,Rubhini Hope,Okay mam. Good✨✨,"{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.2263}",0.2263,0.0,0.487,0.513,pos,3,0
+23/01/26,11:34 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+23/01/26,11:35 pm,Kokila Venkatesh,"Mam scikit learn la, it's easy to understand but I find it's taking so much time to find parameters","{'neg': 0.0, 'neu': 0.897, 'pos': 0.103, 'compound': 0.2382}",0.2382,0.0,0.103,0.897,pos,2,0
+23/01/26,11:36 pm,Kokila Venkatesh,Like...... Squared error Friedman Poisson,"{'neg': 0.403, 'neu': 0.597, 'pos': 0.0, 'compound': -0.4019}",-0.4019,0.403,0.0,0.597,neg,2,0
+24/01/26,6:20 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/01/26,10:13 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/01/26,10:14 am,Kokila Venkatesh,Mam kindly check this format,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",0.4939,0.0,0.444,0.556,pos,2,0
+26/01/26,10:14 am,Kokila Venkatesh,Is this ok...????,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1,0
+26/01/26,10:15 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/01/26,10:15 am,Rubhini Hope,Perfect👏,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+26/01/26,10:17 am,Rubhini Hope,Also you can include 2 to 3 major parameter combination to train a model,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+26/01/26,10:17 am,Kokila Venkatesh,Ok mam 👍,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+26/01/26,10:17 am,Kokila Venkatesh,Should I do that now or in can proceed to next one ???,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+26/01/26,10:17 am,Kokila Venkatesh,*can i,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/01/26,10:31 am,Rubhini Hope,Yes you can move on mam.. In the next lecture it's covered,"{'neg': 0.0, 'neu': 0.803, 'pos': 0.197, 'compound': 0.4019}",0.4019,0.0,0.197,0.803,pos,2,0
+26/01/26,10:32 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+28/01/26,10:21 am,Rubhini Hope,*Email:* kokilavenkatesh1516@gmail.com *Name:* Kokila venkatesh *Mobile Number:* 9884602380 *Current Module:* Week-3-Machine-Learning-Regression *Last Studied:* This week *Last Date:* Tue Jan 27 2026 00:00:00 GMT+0530 (India Standard Time) *Feedback:* Yes I can understand but it will take some time to understand the topic. *Anything:* *Mentor Name:* 7305067045(Mrs.Rubhini) *Mentor Reply Time Taken:* ⏱ Quick Response (15–30 minutes),"{'neg': 0.0, 'neu': 0.965, 'pos': 0.035, 'compound': 0.2144}",0.2144,0.0,0.035,0.965,pos,4,0
+28/01/26,10:21 am,Rubhini Hope,Thanks for sharing your update and feedback✨,"{'neg': 0.0, 'neu': 0.467, 'pos': 0.533, 'compound': 0.6908}",0.6908,0.0,0.533,0.467,pos,3,0
+28/01/26,10:21 am,Kokila Venkatesh,👍,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0,0
+28/01/26,2:45 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+28/01/26,2:45 pm,Kokila Venkatesh,mam kindly check this one,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",0.4939,0.0,0.444,0.556,pos,2,0
+28/01/26,2:45 pm,Rubhini Hope,"Ina meet, will let you know","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+28/01/26,2:45 pm,Kokila Venkatesh,yeah ok mam,"{'neg': 0.0, 'neu': 0.185, 'pos': 0.815, 'compound': 0.5267}",0.5267,0.0,0.815,0.185,pos,1,0
+28/01/26,3:09 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+28/01/26,3:10 pm,Kokila Venkatesh,Thank you mam,"{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}",0.3612,0.0,0.556,0.444,pos,4,0
+28/01/26,3:10 pm,Kokila Venkatesh,Shall I proceed to next one ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+28/01/26,3:11 pm,Rubhini Hope,Yes move on 👍🏻,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.4019}",0.4019,0.0,0.474,0.526,pos,2,0
+28/01/26,3:15 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+28/01/26,3:27 pm,Kokila Venkatesh,https://github.com/Kokila-16/REGRESSION-ASSIGNMENT,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+28/01/26,3:28 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+29/01/26,10:04 pm,Kokila Venkatesh,Mam I have one doubt,"{'neg': 0.455, 'neu': 0.545, 'pos': 0.0, 'compound': -0.3612}",-0.3612,0.455,0.0,0.545,neg,2,0
+30/01/26,7:24 am,Kokila Venkatesh,Now I am in week 3 maybe I'll complete within this week means Within July la naa course complete pannida mudiyuma mam ????,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+30/01/26,9:06 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+30/01/26,9:08 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+30/01/26,9:08 am,Kokila Venkatesh,Thank you,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,0.0,0.714,0.286,pos,4,0
+30/01/26,9:11 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+30/01/26,9:22 am,Kokila Venkatesh,Ok mam.... I am having a kid. That's why it's getting very late 😅,"{'neg': 0.0, 'neu': 0.82, 'pos': 0.18, 'compound': 0.296}",0.296,0.0,0.18,0.82,pos,1,0
+30/01/26,9:22 am,Kokila Venkatesh,I'll try to complete within the month of July mam 👍,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+30/01/26,9:27 am,Rubhini Hope,Okay mam.. We understood it.. Try to give some more time whenever possible in learning..,"{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.2263}",0.2263,0.0,0.119,0.881,pos,3,0
+30/01/26,9:32 am,Kokila Venkatesh,Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1,0
+04/02/26,6:47 am,Rubhini Hope,"Hi Kokila V, I hope your learning journey is going well! It’s time for our 15-day check-in. Could you please share an update on your progress? We’d love to know how things are going and if there’s anything we can assist you with. Looking forward to your update!","{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.944}",0.944,0.0,0.294,0.706,pos,3,1
+05/02/26,3:31 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+05/02/26,3:31 pm,Kokila Venkatesh,mam kindly check this one,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",0.4939,0.0,0.444,0.556,pos,2,0
+05/02/26,3:37 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+05/02/26,3:38 pm,Kokila Venkatesh,shall i proceed to next one mam?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+05/02/26,3:44 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+05/02/26,3:52 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+05/02/26,3:53 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+05/02/26,3:54 pm,Rubhini Hope,Presentation is Perfect 👏👏but missing the ppt format.. Next assignment try to implememnt in ppt..,"{'neg': 0.116, 'neu': 0.688, 'pos': 0.196, 'compound': 0.3612}",0.3612,0.116,0.196,0.688,pos,2,0
+05/02/26,3:54 pm,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+05/02/26,3:54 pm,Kokila Venkatesh,Oh ok mam got it,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",0.296,0.0,0.355,0.645,pos,1,0
+18/02/26,6:47 am,Rubhini Hope,"Hi Kokila V, I hope your learning journey is going well! It’s time for our 15-day check-in. Could you please share an update on your progress? We’d love to know how things are going and if there’s anything we can assist you with. Looking forward to your update!","{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.944}",0.944,0.0,0.294,0.706,pos,3,1
+29/03/26,4:19 pm,Kokila Venkatesh,Hello mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+29/03/26,4:19 pm,Kokila Venkatesh,Hope you are good,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.7003}",0.7003,0.0,0.744,0.256,pos,3,0
+29/03/26,4:20 pm,Kokila Venkatesh,Confusion matrix la mam said to do one assignment like creating an document with some questions nu,"{'neg': 0.105, 'neu': 0.67, 'pos': 0.225, 'compound': 0.3612}",0.3612,0.105,0.225,0.67,pos,2,0
+29/03/26,4:20 pm,Kokila Venkatesh,Could you explain me in  detail mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+29/03/26,4:51 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+29/03/26,4:58 pm,Rubhini Hope,29th and 30 th March - ML Classification,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+29/03/26,5:01 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+29/03/26,5:01 pm,Kokila Venkatesh,Got it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+29/03/26,5:40 pm,Rubhini Hope,🤝,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0,0
+29/03/26,10:43 pm,Kokila Venkatesh,You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+29/03/26,10:49 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+29/03/26,10:49 pm,Kokila Venkatesh,mam kindly check this one,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",0.4939,0.0,0.444,0.556,pos,2,0
+30/03/26,6:05 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+30/03/26,7:15 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+30/03/26,9:17 pm,Kokila Venkatesh,As you said... I completed ML classification mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+30/03/26,9:17 pm,Kokila Venkatesh,Lemme start to clustering topics,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1,0
+30/03/26,10:10 pm,Rubhini Hope,Okay mam. Good💥💥,"{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.2263}",0.2263,0.0,0.487,0.513,pos,3,0
+01/04/26,6:46 am,Rubhini Hope,"Hi Kokila V, I hope your learning journey is going well! It’s time for our 15-day check-in. Could you please share an update on your progress? We’d love to know how things are going and if there’s anything we can assist you with. Looking forward to your update!","{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.944}",0.944,0.0,0.294,0.706,pos,3,1
+01/04/26,12:02 pm,Rubhini Hope,*Email:* Kokilavenkatesh1516@gmail.com *Name:* Kokila venkatesh *Mobile Number:* 9884602380 *Current Module:* Week-4.2-Machine-Learning-Clustering *Last Studied:* This week *Last Date:* Mon Mar 30 2026 00:00:00 GMT+0530 (India Standard Time) *Feedback:* Yes I can understand but it will take some time to understand the topic. *Anything:* *Mentor Name:* 7305067045(Mrs.Rubhini) *Mentor Reply Time Taken:* ✅ Immediately (Within 15 minutes),"{'neg': 0.0, 'neu': 0.965, 'pos': 0.035, 'compound': 0.2144}",0.2144,0.0,0.035,0.965,pos,4,0
+01/04/26,12:02 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+01/04/26,12:09 pm,Kokila Venkatesh,Ok done mam 👍,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,1,0
+01/04/26,11:05 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+02/04/26,6:57 am,Rubhini Hope,Prepare a presentation on the algorithm 1.Definition 2.Working Principle (How it works) 3.Advantages&Disadvantages 4.Applications Add some picturized representation mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+02/04/26,8:05 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+02/04/26,4:48 pm,Kokila Venkatesh,What about the coding mam?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+02/04/26,4:48 pm,Kokila Venkatesh,Is it compulsory to do the coding here ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+02/04/26,4:58 pm,Rubhini Hope,Ppt and coding mam...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+02/04/26,5:24 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+02/04/26,5:25 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+02/04/26,5:27 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+03/04/26,12:59 am,Kokila Venkatesh,You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+03/04/26,12:59 am,Kokila Venkatesh,Mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+03/04/26,1:00 am,Kokila Venkatesh,Kindly check this one,"{'neg': 0.0, 'neu': 0.484, 'pos': 0.516, 'compound': 0.4939}",0.4939,0.0,0.516,0.484,pos,2,0
+03/04/26,1:01 am,Kokila Venkatesh,https://github.com/Kokila-16/CLUSTERING-ASSIGNMENT,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+03/04/26,1:01 am,Kokila Venkatesh,And also this one,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+03/04/26,8:48 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+03/04/26,7:38 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+03/04/26,8:59 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+03/04/26,8:59 am,Kokila Venkatesh,So now tell me the next schedule mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+03/04/26,9:00 am,Kokila Venkatesh,As you said... I completed this schedule,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+03/04/26,9:37 am,Rubhini Hope,April 3 - Self Branding,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+03/04/26,9:38 am,Rubhini Hope,Appreciate your dedication towards completion of scheduled modules... Keep Rocking🤝🤝,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4019}",0.4019,0.0,0.231,0.769,pos,2,0
+03/04/26,9:57 am,Kokila Venkatesh,Ok mam 👍,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+03/04/26,9:58 am,Kokila Venkatesh,☺️thank you mam Hope i continue like this till the end,"{'neg': 0.0, 'neu': 0.597, 'pos': 0.403, 'compound': 0.6597}",0.6597,0.0,0.403,0.597,pos,4,0
+03/04/26,9:59 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+03/04/26,9:59 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+03/04/26,12:05 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+03/04/26,12:06 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+03/04/26,12:09 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+03/04/26,12:09 pm,Kokila Venkatesh,Once I change I'll update you mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+03/04/26,12:17 pm,Rubhini Hope,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+04/04/26,8:03 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+04/04/26,9:28 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+04/04/26,9:30 pm,Kokila Venkatesh,Ok mam 👍,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+05/04/26,8:38 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+05/04/26,10:00 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+05/04/26,10:01 pm,Kokila Venkatesh,Ok mam 👍,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+06/04/26,10:10 am,Rubhini Hope,"Good morning! The course mentorship ends in 29th May, 2027","{'neg': 0.0, 'neu': 0.738, 'pos': 0.262, 'compound': 0.4926}",0.4926,0.0,0.262,0.738,pos,3,0
+13/04/26,6:35 pm,Kokila Venkatesh,Good evening mam,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,0.0,0.592,0.408,pos,2,0
+13/04/26,6:36 pm,Kokila Venkatesh,As you said..... I couldn't complete this mam Sorry for this,"{'neg': 0.126, 'neu': 0.874, 'pos': 0.0, 'compound': -0.0772}",-0.0772,0.126,0.0,0.874,neg,2,0
+13/04/26,6:36 pm,Kokila Venkatesh,Just give me one more week mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+13/04/26,6:36 pm,Kokila Venkatesh,I'll try to finish it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+13/04/26,6:36 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+13/04/26,6:37 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+13/04/26,6:37 pm,Kokila Venkatesh,Thank you,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,0.0,0.714,0.286,pos,4,0
+13/04/26,6:38 pm,Rubhini Hope,🤝🤝,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+15/04/26,6:46 am,Rubhini Hope,"Hi Kokila V, I hope your learning journey is going well! It’s time for our 15-day check-in. Could you please share an update on your progress? We’d love to know how things are going and if there’s anything we can assist you with. Looking forward to your update!","{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.944}",0.944,0.0,0.294,0.706,pos,3,1
+15/04/26,2:42 pm,Rubhini Hope,*Email:* Kokilavenkatesh1516@gmail.com *Name:* Kokila venkatesh *Mobile Number:* 9884602380 *Current Module:* Week-5-Data Science-Univariate Analysis *Last Studied:* Last week *Last Date:* Wed Apr 08 2026 00:00:00 GMT+0530 (India Standard Time) *Feedback:* Yes I can understand but it will take some time to understand the topic. *Anything:* *Mentor Name:* 7305067045(Mrs.Rubhini) *Mentor Reply Time Taken:* ✅ Immediately (Within 15 minutes),"{'neg': 0.0, 'neu': 0.966, 'pos': 0.034, 'compound': 0.2144}",0.2144,0.0,0.034,0.966,pos,4,0
+15/04/26,2:42 pm,Rubhini Hope,Thanks for the update mam... Looking forward🤝,"{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}",0.4404,0.0,0.326,0.674,pos,2,0
+15/04/26,3:37 pm,Kokila Venkatesh,Ok mam 👍,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+22/04/26,3:06 am,Kokila Venkatesh,B,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0,0
+22/04/26,6:38 am,Rubhini Hope,👏👏👏keep consistent learning,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+22/04/26,8:47 am,Kokila Venkatesh,Thank you mam,"{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}",0.3612,0.0,0.556,0.444,pos,4,0
+29/04/26,6:46 am,Rubhini Hope,"Hi Kokila V, I hope your learning journey is going well! It’s time for our 15-day check-in. Could you please share an update on your progress? We’d love to know how things are going and if there’s anything we can assist you with. Looking forward to your update!","{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.944}",0.944,0.0,0.294,0.706,pos,3,1
+06/05/26,12:36 pm,Kokila Venkatesh,Mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+06/05/26,12:36 pm,Kokila Venkatesh,Good afternoon,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}",0.4404,0.0,0.744,0.256,pos,3,0
+06/05/26,12:36 pm,Kokila Venkatesh,I know I've been not good in finishing according to our plan,"{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.3412}",-0.3412,0.194,0.0,0.806,neg,3,0
+06/05/26,12:37 pm,Kokila Venkatesh,Lots of personal things happening in my life But definitely I really want to complete this,"{'neg': 0.0, 'neu': 0.705, 'pos': 0.295, 'compound': 0.664}",0.664,0.0,0.295,0.705,pos,2,0
+06/05/26,12:37 pm,Kokila Venkatesh,Sorry mam,"{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.0772}",-0.0772,0.565,0.0,0.435,neg,2,0
+06/05/26,12:40 pm,Rubhini Hope,Good afternoon! I can understand it mam but appreciate your interest in completion of the modules scheduled.. We can reschedule it based on your average availability to learn on a day mam,"{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.8687}",0.8687,0.0,0.266,0.734,pos,2,0
+06/05/26,12:43 pm,Kokila Venkatesh,Thank you so much for your understanding mam,"{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}",0.3612,0.0,0.263,0.737,pos,4,0
+06/05/26,12:44 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/05/26,12:44 pm,Kokila Venkatesh,Definitely mam 👍,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,0.0,0.73,0.27,pos,2,0
+06/05/26,12:44 pm,Kokila Venkatesh,I will share,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,3,0
+06/05/26,12:48 pm,Rubhini Hope,Okay amm,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+06/05/26,12:48 pm,Rubhini Hope,Mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+06/05/26,3:41 pm,Rubhini Hope,*Email:* Kokilavenkatesh1516@gmail.com *Name:* Kokila venkatesh *Mobile Number:* 9884602380 *Current Module:* Week-5-Data Science-Univariate Analysis *Last Studied:* This week *Last Date:* Tue May 05 2026 00:00:00 GMT+0530 (India Standard Time) *Feedback:* Yes I can understand but it will take some time to understand the topic. *Anything:* *Mentor Name:* 7305067045(Mrs.Rubhini) *Mentor Reply Time Taken:* ✅ Immediately (Within 15 minutes),"{'neg': 0.0, 'neu': 0.966, 'pos': 0.034, 'compound': 0.2144}",0.2144,0.0,0.034,0.966,pos,4,0
+06/05/26,3:42 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/05/26,4:00 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+06/05/26,4:13 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/05/26,4:13 pm,Kokila Venkatesh,What to do ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/05/26,4:14 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/05/26,4:16 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+06/05/26,4:16 pm,Kokila Venkatesh,Lemme check,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+06/05/26,4:19 pm,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+06/05/26,4:29 pm,Kokila Venkatesh,No mam I dont have that dataset,"{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}",-0.296,0.306,0.0,0.694,neg,2,0
+06/05/26,4:34 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/05/26,4:36 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/05/26,4:36 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/05/26,4:36 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/05/26,4:41 pm,Kokila Venkatesh,No mam... its not downloading From morning im trying,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}",-0.296,0.216,0.0,0.784,neg,2,0
+06/05/26,4:41 pm,Kokila Venkatesh,Lemme check it here,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+06/05/26,4:41 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/05/26,4:43 pm,Kokila Venkatesh,Got it here mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+06/05/26,4:44 pm,Rubhini Hope,Okay mam.. Done,"{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.2263}",0.2263,0.0,0.487,0.513,pos,3,0
+06/05/26,6:00 pm,Kokila Venkatesh,Definitely for an hour,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.4019}",0.4019,0.0,0.474,0.526,pos,2,0
+06/05/26,6:00 pm,Kokila Venkatesh,Perday an hour mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+06/05/26,6:04 pm,Rubhini Hope,May 6 - May 13 - Data Science Univaruate,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+06/05/26,6:05 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+06/05/26,6:06 pm,Kokila Venkatesh,Ok done mam,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,1,0
+06/05/26,6:06 pm,Kokila Venkatesh,I will definitely try this,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.4019}",0.4019,0.0,0.474,0.526,pos,3,0
+06/05/26,6:07 pm,Rubhini Hope,Okay mam.. Now our learning is going to be *Productive*,"{'neg': 0.0, 'neu': 0.826, 'pos': 0.174, 'compound': 0.2263}",0.2263,0.0,0.174,0.826,pos,3,0
+06/05/26,6:08 pm,Kokila Venkatesh,Hope 👍,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4404}",0.4404,0.0,1.0,0.0,pos,4,0
+06/05/26,10:20 pm,Kokila Venkatesh,https://github.com/Kokila-16/DATA-PREPROCESSING,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+06/05/26,10:21 pm,Kokila Venkatesh,mam kindly check this one,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",0.4939,0.0,0.444,0.556,pos,2,0
+07/05/26,7:20 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+07/05/26,7:21 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+07/05/26,11:03 am,Kokila Venkatesh,Oh ok mam,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,1,0
+07/05/26,11:03 am,Kokila Venkatesh,When you have time .... please explain me this data preprocessing concept mam,"{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3182}",0.3182,0.0,0.161,0.839,pos,2,0
+07/05/26,11:07 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+07/05/26,11:08 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+07/05/26,11:09 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+07/05/26,12:14 pm,Kokila Venkatesh,ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+09/05/26,2:56 pm,Kokila Venkatesh,https://github.com/Kokila-16/DATA-PREPROCESSING,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+09/05/26,2:56 pm,Kokila Venkatesh,mam kindly check this one,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",0.4939,0.0,0.444,0.556,pos,2,0
+09/05/26,3:05 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/05/26,3:05 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/05/26,3:12 pm,Kokila Venkatesh,ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+10/05/26,8:40 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+10/05/26,9:06 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+10/05/26,9:20 pm,Rubhini Hope,placement. csv mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+10/05/26,9:21 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+10/05/26,9:21 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+10/05/26,9:21 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+10/05/26,9:24 pm,Rubhini Hope,No mam.. Overall the questions cover what we learned so better try with the hands-on you learned.,"{'neg': 0.105, 'neu': 0.716, 'pos': 0.179, 'compound': 0.3697}",0.3697,0.105,0.179,0.716,pos,2,0
+10/05/26,9:28 pm,Kokila Venkatesh,Ok mam I got it,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,1,0
+10/05/26,9:31 pm,Rubhini Hope,Okay mam... 👍🏻,"{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.2263}",0.2263,0.0,0.487,0.513,pos,3,0
+15/05/26,8:11 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+15/05/26,8:11 pm,Kokila Venkatesh,Ramisha mam did one heading,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+15/05/26,8:11 pm,Kokila Venkatesh,Like heading on top of the coding,"{'neg': 0.0, 'neu': 0.538, 'pos': 0.462, 'compound': 0.5106}",0.5106,0.0,0.462,0.538,pos,4,0
+15/05/26,8:11 pm,Kokila Venkatesh,Thats how mam?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+15/05/26,8:57 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+15/05/26,9:22 pm,Kokila Venkatesh,Ok mam got it,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,1,0
+16/05/26,8:34 pm,Kokila Venkatesh,https://github.com/Kokila-16/DATA-PREPROCESSING/blob/main/Assignment3.ipynb,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+16/05/26,8:35 pm,Kokila Venkatesh,mam .....kindly check this one .... i tried my level best,"{'neg': 0.0, 'neu': 0.682, 'pos': 0.318, 'compound': 0.6369}",0.6369,0.0,0.318,0.682,pos,2,0
+16/05/26,8:37 pm,Kokila Venkatesh,before i do recording... check the code mam... once it is ok ill do recording and ill submit by tomorrow mam,"{'neg': 0.226, 'neu': 0.685, 'pos': 0.089, 'compound': -0.5267}",-0.5267,0.226,0.089,0.685,neg,2,0
+16/05/26,10:22 pm,Rubhini Hope,Okay mam.. I'll update,"{'neg': 0.0, 'neu': 0.612, 'pos': 0.388, 'compound': 0.2263}",0.2263,0.0,0.388,0.612,pos,3,0
+16/05/26,10:29 pm,Rubhini Hope,By morning,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+17/05/26,4:33 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+17/05/26,3:19 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+17/05/26,3:20 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+17/05/26,3:21 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+17/05/26,3:23 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+17/05/26,3:24 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+17/05/26,3:25 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+17/05/26,3:25 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+17/05/26,3:25 pm,Kokila Venkatesh,Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1,0
+17/05/26,3:29 pm,Rubhini Hope,Okay mam.. Once done update it mam,"{'neg': 0.0, 'neu': 0.759, 'pos': 0.241, 'compound': 0.2263}",0.2263,0.0,0.241,0.759,pos,3,0
+17/05/26,3:29 pm,Kokila Venkatesh,Got it mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+17/05/26,3:35 pm,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+17/05/26,6:12 pm,Kokila Venkatesh,https://github.com/Kokila-16/DATA-PREPROCESSING/blob/main/Assignment3.ipynb,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+17/05/26,6:12 pm,Kokila Venkatesh,mam now just check it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+18/05/26,7:33 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,7:33 am,Rubhini Hope,Well done👏👏,"{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.2732}",0.2732,0.0,0.677,0.323,pos,0,0
+18/05/26,7:55 am,Kokila Venkatesh,Ok .... what i have to do next mam ?,"{'neg': 0.0, 'neu': 0.761, 'pos': 0.239, 'compound': 0.296}",0.296,0.0,0.239,0.761,pos,1,0
+18/05/26,9:47 am,Kokila Venkatesh,Is recording compulsory?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+18/05/26,10:08 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,10:08 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,10:11 am,Kokila Venkatesh,Ok mam 👍,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+18/05/26,11:09 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,11:10 am,Rubhini Hope,Okay mam... I'll share a short sample video recording ... I'll record and share it,"{'neg': 0.0, 'neu': 0.636, 'pos': 0.364, 'compound': 0.6486}",0.6486,0.0,0.364,0.636,pos,3,0
+18/05/26,11:10 am,Kokila Venkatesh,Ok 👍,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1,0
+18/05/26,11:23 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,11:24 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,11:27 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,11:39 am,Rubhini Hope,Shall we connect mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+18/05/26,12:10 pm,Kokila Venkatesh,Yes I got it mam,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.4019}",0.4019,0.0,0.474,0.526,pos,2,0
+18/05/26,12:11 pm,Kokila Venkatesh,Give me some time mam.... I'll invite you,"{'neg': 0.0, 'neu': 0.814, 'pos': 0.186, 'compound': 0.1531}",0.1531,0.0,0.186,0.814,pos,2,0
+18/05/26,12:12 pm,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+18/05/26,12:12 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,12:24 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+18/05/26,12:28 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,12:33 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,12:34 pm,Kokila Venkatesh,Got it mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+18/05/26,5:22 pm,Kokila Venkatesh,https://www.youtube.com/watch?v=XZ9f3I_2zxo,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+18/05/26,5:23 pm,Kokila Venkatesh,Mam kindly check it and update mam,"{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.4939}",0.4939,0.0,0.348,0.652,pos,2,0
+18/05/26,5:23 pm,Kokila Venkatesh,I've tried my level best,"{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.6369}",0.6369,0.0,0.512,0.488,pos,2,0
+18/05/26,5:26 pm,Rubhini Hope,Appreciatable👏👏,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,5:29 pm,Kokila Venkatesh,thank you mam,"{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}",0.3612,0.0,0.556,0.444,pos,4,0
+18/05/26,5:29 pm,Rubhini Hope,I'm watching it... Will update mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+18/05/26,5:30 pm,Kokila Venkatesh,ok mam .... im waiting,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",0.296,0.0,0.355,0.645,pos,1,0
+18/05/26,5:47 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,5:47 pm,Rubhini Hope,Voice Clarity is Good Explanation is clear Insightful presentation👏👏👏 Superb🤝🤝,"{'neg': 0.0, 'neu': 0.461, 'pos': 0.539, 'compound': 0.802}",0.802,0.0,0.539,0.461,pos,3,0
+18/05/26,5:49 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,5:49 pm,Kokila Venkatesh,Ok mam .... understood,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,1,0
+18/05/26,5:50 pm,Kokila Venkatesh,Thank you mam 🙏,"{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}",0.3612,0.0,0.556,0.444,pos,4,0
+18/05/26,5:51 pm,Rubhini Hope,🌟🌟🌟🌟🌟🌟🌟🌟Keep going👏👏👏,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+18/05/26,5:55 pm,Kokila Venkatesh,In my honest opinion.... im using lots of fillers And I should avoid that Next time I'll rectify it mam,"{'neg': 0.098, 'neu': 0.756, 'pos': 0.147, 'compound': 0.2732}",0.2732,0.098,0.147,0.756,pos,2,0
+18/05/26,5:56 pm,Kokila Venkatesh,Thank you mam,"{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}",0.3612,0.0,0.556,0.444,pos,4,0
+18/05/26,5:58 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,5:59 pm,Kokila Venkatesh,ok mam got it,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,1,0
+18/05/26,6:11 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,6:13 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,6:13 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+18/05/26,6:16 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/05/26,6:16 pm,Kokila Venkatesh,This one mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+18/05/26,6:19 pm,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+19/05/26,1:22 pm,Kokila Venkatesh,"Hi Kokila V, 🎉 Great progress on your mentorship journey with Hope AI! Here’s your current status: • 📅 Enrolled On: 29/05/2024 • 🏁 Mentorship End Date: 29/05/2027 • 🎓 Program Duration: 3-Year Mentorship • ⏳ Months Completed: 24 Months • 🚀 Remaining Duration: 12 Months Left Keep going — you're consistently moving toward mastery! If you need any support, we're here for you. – Hope AI Team","{'neg': 0.0, 'neu': 0.758, 'pos': 0.242, 'compound': 0.9431}",0.9431,0.0,0.242,0.758,pos,4,0
+19/05/26,1:23 pm,Kokila Venkatesh,Nam I got this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+19/05/26,1:23 pm,Kokila Venkatesh,Remaining duration i have is 12 months,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+19/05/26,1:23 pm,Kokila Venkatesh,But my target is to complete in 3 months You said before it is possible nu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+19/05/26,1:23 pm,Kokila Venkatesh,I just want to clarify again mam,"{'neg': 0.0, 'neu': 0.794, 'pos': 0.206, 'compound': 0.0772}",0.0772,0.0,0.206,0.794,pos,2,0
+19/05/26,1:28 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+19/05/26,1:29 pm,Kokila Venkatesh,Ok mam.... 👍  got it,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,1,0
+19/05/26,2:19 pm,Rubhini Hope,Okay mam👍🏻,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+19/05/26,6:42 pm,Kokila Venkatesh,Mam according to your schedule ...I completed So now im moving on to week 7,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+19/05/26,6:43 pm,Kokila Venkatesh,Kindly attach me the further schedule,"{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.4939}",0.4939,0.0,0.39,0.61,pos,2,0
+19/05/26,6:49 pm,Rubhini Hope,😀😀,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+19/05/26,6:49 pm,Rubhini Hope,Okay mam... I'll share it,"{'neg': 0.0, 'neu': 0.423, 'pos': 0.577, 'compound': 0.4767}",0.4767,0.0,0.577,0.423,pos,3,0
+20/05/26,12:17 am,Kokila Venkatesh,I couldn't install tableau in desktop mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+20/05/26,12:17 am,Kokila Venkatesh,I tried,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+20/05/26,6:52 am,Rubhini Hope,What's the issue you're facing?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,6:54 am,Rubhini Hope,May 20 - May 26 - Data Visvualization,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+20/05/26,10:39 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,10:40 am,Kokila Venkatesh,When I click repair,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+20/05/26,10:40 am,Kokila Venkatesh,Its showing it as.... Wait mam lemme show you its loading,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+20/05/26,10:40 am,Rubhini Hope,Let me know the link you used to download mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+20/05/26,10:41 am,Kokila Venkatesh,Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1,0
+20/05/26,10:43 am,Kokila Venkatesh,https://www.tableau.com/products/public/download,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+20/05/26,10:48 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,10:51 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,10:51 am,Kokila Venkatesh,Yes mam I registered,"{'neg': 0.0, 'neu': 0.426, 'pos': 0.574, 'compound': 0.4019}",0.4019,0.0,0.574,0.426,pos,2,0
+20/05/26,10:51 am,Kokila Venkatesh,Yesterday itself I've done for about 5 tomes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+20/05/26,10:52 am,Kokila Venkatesh,*times,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,10:52 am,Kokila Venkatesh,Still its showing this error,"{'neg': 0.439, 'neu': 0.561, 'pos': 0.0, 'compound': -0.481}",-0.481,0.439,0.0,0.561,neg,2,0
+20/05/26,10:53 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,10:53 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,10:57 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+20/05/26,11:00 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,11:41 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,11:43 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,11:44 am,Kokila Venkatesh,ok mam lemme check,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,1,0
+20/05/26,11:49 am,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+20/05/26,1:22 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,1:35 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+20/05/26,1:40 pm,Kokila Venkatesh,👍,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0,0
+21/05/26,11:45 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,11:51 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,11:58 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,11:59 am,Kokila Venkatesh,PCA and LDA,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,11:59 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,11:59 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,12:00 pm,Kokila Venkatesh,Ok got it,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,1,0
+21/05/26,12:00 pm,Rubhini Hope,Okay amm,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+21/05/26,12:00 pm,Rubhini Hope,Mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+21/05/26,2:08 pm,Kokila Venkatesh,https://github.com/Kokila-16/FEATURE-SELECTION,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+21/05/26,2:08 pm,Kokila Venkatesh,Mam kindly check this and update mam,"{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.4939}",0.4939,0.0,0.348,0.652,pos,2,0
+21/05/26,2:54 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,2:54 pm,Rubhini Hope,Good work👏👏👏,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}",0.4404,0.0,0.744,0.256,pos,3,0
+21/05/26,3:14 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,3:14 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,3:15 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,3:15 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,4:05 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+21/05/26,5:03 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,5:12 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+21/05/26,5:13 pm,Kokila Venkatesh,Ok ok mam,"{'neg': 0.0, 'neu': 0.185, 'pos': 0.815, 'compound': 0.5267}",0.5267,0.0,0.815,0.185,pos,1,0
+21/05/26,5:15 pm,Kokila Venkatesh,Just asked ✌️,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+21/05/26,5:16 pm,Rubhini Hope,Okay mam.. No issues..,"{'neg': 0.361, 'neu': 0.328, 'pos': 0.311, 'compound': -0.0772}",-0.0772,0.361,0.311,0.328,neg,3,0
+23/05/26,10:21 am,Kokila Venkatesh,You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+23/05/26,10:25 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+23/05/26,10:32 am,Rubhini Hope,Let me know the project you done mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+23/05/26,2:26 pm,Kokila Venkatesh,Not the project mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+23/05/26,2:26 pm,Kokila Venkatesh,The assignment which ramisha mam told us to do,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+23/05/26,3:44 pm,Rubhini Hope,Week 9 - ML Capstone Project is the assignment mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+23/05/26,4:49 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+23/05/26,5:48 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+23/05/26,5:49 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+23/05/26,5:50 pm,Kokila Venkatesh,Ok mam ... as you said i completed this,"{'neg': 0.0, 'neu': 0.761, 'pos': 0.239, 'compound': 0.296}",0.296,0.0,0.239,0.761,pos,1,0
+23/05/26,5:51 pm,Kokila Venkatesh,Once I completed this also ill share mam,"{'neg': 0.28, 'neu': 0.5, 'pos': 0.22, 'compound': -0.1531}",-0.1531,0.28,0.22,0.5,neg,2,0
+23/05/26,8:08 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+23/05/26,8:09 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+24/05/26,7:46 am,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+24/05/26,7:47 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+24/05/26,9:30 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+24/05/26,12:05 pm,Kokila Venkatesh,https://www.kaggle.com/datasets/algozee/teenager-menthal-healy,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+24/05/26,12:05 pm,Kokila Venkatesh,this one mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+24/05/26,12:05 pm,Kokila Venkatesh,kokilavenkatesh1516@gmail.com,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+24/05/26,1:47 pm,Rubhini Hope,Okay mam... I'll check it and update,"{'neg': 0.0, 'neu': 0.759, 'pos': 0.241, 'compound': 0.2263}",0.2263,0.0,0.241,0.759,pos,3,0
+24/05/26,1:55 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+24/05/26,1:56 pm,Kokila Venkatesh,Its a web development,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+24/05/26,9:46 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+24/05/26,10:41 pm,Kokila Venkatesh,Yeah yeah mam got it,"{'neg': 0.0, 'neu': 0.405, 'pos': 0.595, 'compound': 0.5267}",0.5267,0.0,0.595,0.405,pos,2,0
+24/05/26,10:41 pm,Kokila Venkatesh,I changed before itself 👍,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+25/05/26,8:00 am,Rubhini Hope,Okay mam👍🏻,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+25/05/26,10:15 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+25/05/26,10:20 am,Rubhini Hope,Mam downloaded dataset,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+25/05/26,10:21 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+25/05/26,10:22 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+25/05/26,3:41 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+25/05/26,3:48 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+25/05/26,3:48 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+25/05/26,3:52 pm,Kokila Venkatesh,Ok mam got it,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,1,0
+25/05/26,3:54 pm,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+27/05/26,1:09 pm,Kokila Venkatesh,Mam I didnt received any message regarding 15 days week analysis mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+27/05/26,1:11 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/05/26,1:28 pm,Kokila Venkatesh,6th of may,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/05/26,1:28 pm,Kokila Venkatesh,"Hi Kokila V, 🎉 Great progress on your mentorship journey with Hope AI! Here’s your current status: • 📅 Enrolled On: 29/05/2024 • 🏁 Mentorship End Date: 29/05/2027 • 🎓 Program Duration: 3-Year Mentorship • ⏳ Months Completed: 24 Months • 🚀 Remaining Duration: 12 Months Left Keep going — you're consistently moving toward mastery! If you need any support, we're here for you. – Hope AI Team","{'neg': 0.0, 'neu': 0.758, 'pos': 0.242, 'compound': 0.9431}",0.9431,0.0,0.242,0.758,pos,4,0
+27/05/26,1:28 pm,Kokila Venkatesh,Then on 19th may I received this,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+27/05/26,1:39 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/05/26,1:40 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+05/06/26,10:31 am,Kokila Venkatesh,This week Wednesday varala mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+05/06/26,10:31 am,Rubhini Hope,Okay mam... Let me check it,"{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.2263}",0.2263,0.0,0.275,0.725,pos,3,0
+05/06/26,10:32 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+05/06/26,10:33 am,Kokila Venkatesh,*Email:* Kokilavenkatesh1516@gmail.com *Name:* Kokila venkatesh *Mobile Number:* 9884602380 *Current Module:* Week-5-Data Science-Univariate Analysis *Last Studied:* This week *Last Date:* Tue May 05 2026 00:00:00 GMT+0530 (India Standard Time) *Feedback:* Yes I can understand but it will take some time to understand the topic. *Anything:* *Mentor Name:* 7305067045(Mrs.Rubhini) *Mentor Reply Time Taken:* ✅ Immediately (Within 15 minutes),"{'neg': 0.0, 'neu': 0.966, 'pos': 0.034, 'compound': 0.2144}",0.2144,0.0,0.034,0.966,pos,4,0
+05/06/26,10:33 am,Kokila Venkatesh,This one mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+05/06/26,10:33 am,Kokila Venkatesh,*Kokila V's 7-Day Progress Check-in from Hope AI* 💙 Your progress truly matters to us. It helps us support and guide you better in your AI journey. Kindly take just a minute to listen to the audio and fill out the form: Form Link: https://forms.gle/v8kbn61mH9ZgV2zM6,"{'neg': 0.0, 'neu': 0.587, 'pos': 0.413, 'compound': 0.9678}",0.9678,0.0,0.413,0.587,pos,4,0
+05/06/26,10:35 am,Rubhini Hope,Okay mam.. Let me check with the management... Kindly use the previous link to update this week,"{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.6249}",0.6249,0.0,0.254,0.746,pos,3,0
+05/06/26,10:47 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+05/06/26,12:28 pm,Kokila Venkatesh,Any updates mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+05/06/26,12:30 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+05/06/26,12:32 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+05/06/26,12:48 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+09/06/26,6:33 pm,Kokila Venkatesh,https://github.com/Kokila-16/Machine-Learning-Capstone,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+09/06/26,6:33 pm,Kokila Venkatesh,https://www.youtube.com/watch?v=82-GtMryklc&t=279s,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+09/06/26,6:34 pm,Kokila Venkatesh,mam kindly check this one,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",0.4939,0.0,0.444,0.556,pos,2,0
+09/06/26,6:35 pm,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+09/06/26,6:37 pm,Rubhini Hope,Project title and abstract mam?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+09/06/26,6:37 pm,Kokila Venkatesh,Pdf ah venuma mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+09/06/26,6:38 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/06/26,6:38 pm,Rubhini Hope,Voice note or message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+09/06/26,6:39 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+09/06/26,7:50 pm,Kokila Venkatesh,You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+09/06/26,7:50 pm,Kokila Venkatesh,Is this enough mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+09/06/26,7:53 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/06/26,7:53 pm,Rubhini Hope,Okay mam.. Let me check it and update . Bit engaged in personal work... Will update before EOD,"{'neg': 0.0, 'neu': 0.765, 'pos': 0.235, 'compound': 0.5574}",0.5574,0.0,0.235,0.765,pos,3,0
+09/06/26,7:54 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+09/06/26,10:38 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/06/26,10:39 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/06/26,10:43 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/06/26,10:47 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/06/26,10:48 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+09/06/26,11:06 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+09/06/26,11:06 pm,Kokila Venkatesh,Done,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+10/06/26,6:28 am,Rubhini Hope,"Hi Kokila V 👋, Just checking in regarding your mentorship progress I wanted to personally follow up and understand how your learning journey is going so far. 📚 Your Current Mentorship Progress: 📅 Enrolled Date: *29-05-2024* 🏁 Mentorship End Date: *29-05-2027* ✅ Total Days Completed: *742 Days* ⏳ Remaining Days: *353 Days* 📆 Remaining Duration Left: *11 Months* *What help or support are you expecting from our side to fast-track your learning and achieve quicker desired results?* Your consistency matters a lot! Waiting for your update in the next reply 🙌","{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.9098}",0.9098,0.0,0.162,0.838,pos,3,0
+10/06/26,6:33 am,Rubhini Hope,Kindly do the required corrections.. Let's check the accuracy then,"{'neg': 0.0, 'neu': 0.738, 'pos': 0.262, 'compound': 0.4939}",0.4939,0.0,0.262,0.738,pos,3,0
+10/06/26,7:25 am,Kokila Venkatesh,Ok 👍,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1,0
+10/06/26,2:49 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+10/06/26,3:09 pm,Rubhini Hope,I'm in ameet mam.. Will update,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+10/06/26,3:25 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+10/06/26,3:26 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+10/06/26,3:31 pm,Kokila Venkatesh,Ohhh yeah i got it mam,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",0.296,0.0,0.355,0.645,pos,2,0
+10/06/26,3:31 pm,Kokila Venkatesh,Oh god.... that was a blunder mistake,"{'neg': 0.324, 'neu': 0.676, 'pos': 0.0, 'compound': -0.34}",-0.34,0.324,0.0,0.676,neg,1,0
+10/06/26,3:31 pm,Kokila Venkatesh,I got it mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+10/06/26,3:32 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+10/06/26,3:32 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+17/06/26,6:23 am,Rubhini Hope,"Hi Kokila V 👋, Just checking in regarding your mentorship progress I wanted to personally follow up and understand how your learning journey is going so far. 📚 Your Current Mentorship Progress: 📅 Enrolled Date: *29-05-2024* 🏁 Mentorship End Date: *29-05-2027* ✅ Total Days Completed: *749 Days* ⏳ Remaining Days: *346 Days* 📆 Remaining Duration Left: *11 Months* *What help or support are you expecting from our side to fast-track your learning and achieve quicker desired results?* Your consistency matters a lot! Waiting for your update in the next reply 🙌","{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.9098}",0.9098,0.0,0.162,0.838,pos,3,0
+24/06/26,6:24 am,Rubhini Hope,"Hi Kokila V 👋, Just checking in regarding your mentorship progress I wanted to personally follow up and understand how your learning journey is going so far. 📚 Your Current Mentorship Progress: 📅 Enrolled Date: *29-05-2024* 🏁 Mentorship End Date: *29-05-2027* ✅ Total Days Completed: *756 Days* ⏳ Remaining Days: *339 Days* 📆 Remaining Duration Left: *11 Months* *What help or support are you expecting from our side to fast-track your learning and achieve quicker desired results?* Your consistency matters a lot! Waiting for your update in the next reply 🙌","{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.9098}",0.9098,0.0,0.162,0.838,pos,3,0
+24/06/26,12:40 pm,Rubhini Hope,"*1.What is fit()?* fit() trains the machine learning model using the training data. *model.fit(X_train,y_train)* *What happens internally?* Learns coefficients Learns intercept Minimizes prediction error *Summary* fit() is used to train the model and learn patterns from the training data. *2. What is predict()?* predict() generates predictions using the trained model. predictions = model.predict(X_test) *Summary* predict() uses the learned patterns to make predictions on unseen data. *3.What is Scikit-Learn?* Scikit-Learn is one of the most widely used Python libraries for Machine Learning. *Features* Regression Classification Clustering Feature Selection Model Evaluation *Summary* Scikit-Learn provides ready-to-use implementations of machine learning algorithms.","{'neg': 0.037, 'neu': 0.963, 'pos': 0.0, 'compound': -0.5661}",-0.5661,0.037,0.0,0.963,neg,3,0
+24/06/26,12:55 pm,Kokila Venkatesh,Mam ???,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+24/06/26,12:55 pm,Kokila Venkatesh,Whats this about ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+24/06/26,12:58 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+24/06/26,1:10 pm,Kokila Venkatesh,Oh ok mam,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,1,0
+24/06/26,1:10 pm,Kokila Venkatesh,Thank you,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,0.0,0.714,0.286,pos,4,0
+24/06/26,1:16 pm,Rubhini Hope,🤝🤝,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+01/07/26,7:00 am,Rubhini Hope,"Hi Kokila V 👋, Just checking in regarding your mentorship progress I wanted to personally follow up and understand how your learning journey is going so far. 📚 Your Current Mentorship Progress: 📅 Enrolled Date: *29-05-2024* 🏁 Mentorship End Date: *29-05-2027* ✅ Total Days Completed: *763 Days* ⏳ Remaining Days: *332 Days* 📆 Remaining Duration Left: *11 Months* *What help or support are you expecting from our side to fast-track your learning and achieve quicker desired results?* Your consistency matters a lot! Waiting for your update in the next reply 🙌","{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.9098}",0.9098,0.0,0.162,0.838,pos,3,0
+01/07/26,1:25 pm,Rubhini Hope,*Email:* Kokilavenkatesh1516@gmail.com *Name:* Kokila venkatesh *Mobile Number:* 9884602380 *Current Module:* Week-11: Deep Learning Module *Last Studied:* Last week *Last Date:* Thu Jun 25 2026 00:00:00 GMT+0530 (India Standard Time) *Feedback:* Yes I can understand but it will take some time to understand the topic. *Anything:* *Mentor Name:* 7305067045(Mrs.Rubhini) *Mentor Reply Time Taken:* ✅ Immediately (Within 15 minutes),"{'neg': 0.0, 'neu': 0.967, 'pos': 0.033, 'compound': 0.2144}",0.2144,0.0,0.033,0.967,pos,4,0
+01/07/26,1:25 pm,Rubhini Hope,Thanks for the update and feedback🙏🏻,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,0.0,0.367,0.633,pos,3,0
+08/07/26,6:54 am,Rubhini Hope,"Hi Kokila V 👋, Just checking in regarding your mentorship progress I wanted to personally follow up and understand how your learning journey is going so far. 📚 Your Current Mentorship Progress: 📅 Enrolled Date: *29-05-2024* 🏁 Mentorship End Date: *29-05-2027* ✅ Total Days Completed: *770 Days* ⏳ Remaining Days: *325 Days* 📆 Remaining Duration Left: *10 Months* *What help or support are you expecting from our side to fast-track your learning and achieve quicker desired results?* Your consistency matters a lot! Waiting for your update in the next reply 🙌","{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.9098}",0.9098,0.0,0.162,0.838,pos,3,0
+15/07/26,6:54 am,Rubhini Hope,"Hi Kokila V 👋, Just checking in regarding your mentorship progress I wanted to personally follow up and understand how your learning journey is going so far. 📚 Your Current Mentorship Progress: 📅 Enrolled Date: *29-05-2024* 🏁 Mentorship End Date: *29-05-2027* ✅ Total Days Completed: *777 Days* ⏳ Remaining Days: *318 Days* 📆 Remaining Duration Left: *10 Months* Kindly take 1 minute to submit your feedback and progress update through the form below 👇 📝 Feedback Form: https://forms.gle/v8kbn61mH9ZgV2zM6 *What help or support are you expecting from our side to fast-track your learning and achieve quicker desired results?* Your consistency matters a lot! Waiting for your update in the next reply 🙌","{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.9551}",0.9551,0.0,0.185,0.815,pos,3,0
+18/07/26,10:26 am,Rubhini Hope,Hi mam! Any update in learning... Hope everything is going well! <This message was edited>,"{'neg': 0.0, 'neu': 0.7, 'pos': 0.3, 'compound': 0.6792}",0.6792,0.0,0.3,0.7,pos,2,0
+18/07/26,10:27 am,Kokila Venkatesh,Yeah mam yes yes,"{'neg': 0.0, 'neu': 0.116, 'pos': 0.884, 'compound': 0.765}",0.765,0.0,0.884,0.116,pos,2,0
+18/07/26,10:27 am,Kokila Venkatesh,Thank you for your concern,"{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}",0.3612,0.0,0.385,0.615,pos,4,0
+18/07/26,10:27 am,Rubhini Hope,Okay mam.. Good,"{'neg': 0.0, 'neu': 0.172, 'pos': 0.828, 'compound': 0.5859}",0.5859,0.0,0.828,0.172,pos,3,0
+18/07/26,10:28 am,Rubhini Hope,Are you on the learning track?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+18/07/26,10:29 am,Kokila Venkatesh,Whats that mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+18/07/26,10:30 am,Rubhini Hope,Learn pandringla? Or any short break mam?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+18/07/26,10:30 am,Kokila Venkatesh,One month olunga padikala mam to be honeat,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+18/07/26,10:30 am,Kokila Venkatesh,*honest,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+18/07/26,10:31 am,Kokila Venkatesh,Some personal issues mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+18/07/26,10:31 am,Kokila Venkatesh,Definitely I'll take the learning forward mam,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.4019}",0.4019,0.0,0.31,0.69,pos,2,0
+18/07/26,10:31 am,Kokila Venkatesh,இன்னும் konjam dha irruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+18/07/26,10:31 am,Kokila Venkatesh,Definitely I'll complete,"{'neg': 0.0, 'neu': 0.426, 'pos': 0.574, 'compound': 0.4019}",0.4019,0.0,0.574,0.426,pos,3,0
+18/07/26,10:35 am,Rubhini Hope,Okay mam.. I can understand it.. No issues try to be on the track in the upcoming days..,"{'neg': 0.115, 'neu': 0.785, 'pos': 0.099, 'compound': -0.0772}",-0.0772,0.115,0.099,0.785,neg,3,0
+18/07/26,10:35 am,Kokila Venkatesh,Ok mam 👍,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+22/07/26,6:55 am,Rubhini Hope,"Hi Kokila V 👋, Just checking in regarding your mentorship progress I wanted to personally follow up and understand how your learning journey is going so far. 📚 Your Current Mentorship Progress: 📅 Enrolled Date: *29-05-2024* 🏁 Mentorship End Date: *29-05-2027* ✅ Total Days Completed: *784 Days* ⏳ Remaining Days: *311 Days* 📆 Remaining Duration Left: *10 Months* Kindly take 1 minute to submit your feedback and progress update through the form below 👇 📝 Feedback Form: https://forms.gle/v8kbn61mH9ZgV2zM6 *What help or support are you expecting from our side to fast-track your learning and achieve quicker desired results?* Your consistency matters a lot! Waiting for your update in the next reply 🙌","{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.9551}",0.9551,0.0,0.185,0.815,pos,3,0
+23/07/26,8:19 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+23/07/26,9:29 pm,Rubhini Hope,Yes mam... We have personalized placement program,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.4019}",0.4019,0.0,0.31,0.69,pos,2,0
+23/07/26,9:33 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+24/07/26,5:38 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+24/07/26,5:41 pm,Rubhini Hope,Yes mam,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,0.0,0.73,0.27,pos,2,0
+24/07/26,5:42 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+24/07/26,5:42 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+25/07/26,7:53 am,Kokila Venkatesh,Good morning mam,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,0.0,0.592,0.408,pos,2,0
+25/07/26,7:53 am,Kokila Venkatesh,Now i am in to object detection project,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+25/07/26,7:53 am,Kokila Venkatesh,I dont know how to start,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+25/07/26,7:53 am,Kokila Venkatesh,Kindly guide me in each step mam,"{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.4939}",0.4939,0.0,0.348,0.652,pos,2,0
+25/07/26,9:42 am,Rubhini Hope,Hi mam! Kindly share  the hands-on and assignment completed in DL module... I'll give guidance based on it...,"{'neg': 0.0, 'neu': 0.738, 'pos': 0.262, 'compound': 0.69}",0.69,0.0,0.262,0.738,pos,2,0
+25/07/26,9:50 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+25/07/26,9:57 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+25/07/26,10:11 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+25/07/26,10:18 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+25/07/26,10:18 am,Kokila Venkatesh,Ill update you,"{'neg': 0.583, 'neu': 0.417, 'pos': 0.0, 'compound': -0.4215}",-0.4215,0.583,0.0,0.417,neg,3,0
+25/07/26,10:23 am,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+25/07/26,4:40 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+25/07/26,5:49 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+25/07/26,5:49 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+26/07/26,3:16 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/07/26,3:16 pm,Kokila Venkatesh,Whats this mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+26/07/26,3:16 pm,Kokila Venkatesh,I actually tried by myself,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+26/07/26,3:16 pm,Kokila Venkatesh,But still I couldn't get this,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+26/07/26,3:57 pm,Rubhini Hope,What you're trying to open mam?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+26/07/26,4:03 pm,Kokila Venkatesh,anaconda la python==3.10 install panna try pannen mam.... install aaiduchu but thirumba open panna ipdi kaatudhu mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+26/07/26,4:51 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/07/26,5:03 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/07/26,5:04 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/07/26,5:04 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+26/07/26,5:07 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+26/07/26,5:07 pm,Kokila Venkatesh,Let me try it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+26/07/26,5:15 pm,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+27/07/26,10:58 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/07/26,10:58 am,Kokila Venkatesh,Still I'm getting like this mam,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}",0.3612,0.0,0.333,0.667,pos,2,0
+27/07/26,11:01 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/07/26,11:17 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+27/07/26,11:19 am,Kokila Venkatesh,201 805 444,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+27/07/26,11:25 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/07/26,11:27 am,Kokila Venkatesh,79856,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/07/26,11:47 am,Rubhini Hope,https://www.anaconda.com/download/success,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+27/07/26,12:45 pm,Kokila Venkatesh,Mam just give me 20 to 30 mins mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+27/07/26,12:45 pm,Kokila Venkatesh,I came to pick my daughter from school,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+27/07/26,12:45 pm,Kokila Venkatesh,Once i reach home ill connect you mam,"{'neg': 0.315, 'neu': 0.562, 'pos': 0.124, 'compound': -0.4019}",-0.4019,0.315,0.124,0.562,neg,2,0
+27/07/26,12:45 pm,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+27/07/26,7:47 pm,Kokila Venkatesh,Mam shall we connect ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+27/07/26,7:47 pm,Kokila Venkatesh,If you're free,"{'neg': 0.0, 'neu': 0.377, 'pos': 0.623, 'compound': 0.5106}",0.5106,0.0,0.623,0.377,pos,2,0
+27/07/26,9:05 pm,Rubhini Hope,We'll connect by tomorrow mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+27/07/26,9:17 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+28/07/26,9:50 am,Kokila Venkatesh,Mam tell me when you're free,"{'neg': 0.0, 'neu': 0.602, 'pos': 0.398, 'compound': 0.5106}",0.5106,0.0,0.398,0.602,pos,2,0
+28/07/26,10:00 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+28/07/26,10:06 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+28/07/26,11:24 am,Rubhini Hope,Hi mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+28/07/26,11:31 am,Kokila Venkatesh,Yes mam,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,0.0,0.73,0.27,pos,2,0
+28/07/26,11:31 am,Rubhini Hope,Shall we connect,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+28/07/26,11:32 am,Kokila Venkatesh,Mam oru 5 mins,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+28/07/26,11:32 am,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+28/07/26,11:54 am,Kokila Venkatesh,Mam shall we,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+28/07/26,11:55 am,Rubhini Hope,Yes mam,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,0.0,0.73,0.27,pos,2,0
+28/07/26,11:55 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+28/07/26,12:22 pm,Rubhini Hope,"Thank you for joining the UltraViewer / Gmeet earlier, which lasted 00:19:00. I trust that our discussion addressed your queries effectively. If you need any additional clarification, don't hesitate to let me know!","{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.8691}",0.8691,0.0,0.286,0.714,pos,4,0
+28/07/26,12:25 pm,Kokila Venkatesh,👍,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0,0
+29/07/26,6:54 am,Rubhini Hope,"Hi Kokila V 👋, Just checking in regarding your mentorship progress I wanted to personally follow up and understand how your learning journey is going so far. 📚 Your Current Mentorship Progress: 📅 Enrolled Date: *29-05-2024* 🏁 Mentorship End Date: *29-05-2027* ✅ Total Days Completed: *791 Days* ⏳ Remaining Days: *304 Days* 📆 Remaining Duration Left: *10 Months* Kindly take 1 minute to submit your feedback and progress update through the form below 👇 📝 Feedback Form: https://forms.gle/v8kbn61mH9ZgV2zM6 *What help or support are you expecting from our side to fast-track your learning and achieve quicker desired results?* Your consistency matters a lot! Waiting for your update in the next reply 🙌","{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.9551}",0.9551,0.0,0.185,0.815,pos,3,0
+29/07/26,10:26 am,Kokila Venkatesh,Mam tell me whenever you're free,"{'neg': 0.0, 'neu': 0.602, 'pos': 0.398, 'compound': 0.5106}",0.5106,0.0,0.398,0.602,pos,2,0
+29/07/26,10:27 am,Kokila Venkatesh,To connect,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+29/07/26,10:27 am,Rubhini Hope,Are you available now?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+29/07/26,10:28 am,Kokila Venkatesh,Yes mam,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,0.0,0.73,0.27,pos,2,0
+29/07/26,10:28 am,Kokila Venkatesh,Available,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+29/07/26,10:28 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+29/07/26,10:28 am,Rubhini Hope,Share the pwd,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,3,0
+29/07/26,10:34 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+29/07/26,10:34 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+29/07/26,10:54 am,Rubhini Hope,👍🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+29/07/26,4:39 pm,Kokila Venkatesh,Mam free ?,"{'neg': 0.0, 'neu': 0.233, 'pos': 0.767, 'compound': 0.5106}",0.5106,0.0,0.767,0.233,pos,2,0
+29/07/26,4:42 pm,Rubhini Hope,I'll text you within 10 mins mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+29/07/26,4:42 pm,Kokila Venkatesh,ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+29/07/26,4:49 pm,Rubhini Hope,Share the pwd mam,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,2,0
+29/07/26,4:49 pm,Kokila Venkatesh,ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+29/07/26,4:50 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+29/07/26,5:13 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+29/07/26,5:40 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+29/07/26,5:40 pm,Kokila Venkatesh,Ippo enna panradhu?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+29/07/26,5:42 pm,Rubhini Hope,I'll reach you mam.. Stuck in a call suddenly,"{'neg': 0.22, 'neu': 0.659, 'pos': 0.121, 'compound': -0.2263}",-0.2263,0.22,0.121,0.659,neg,2,0
+29/07/26,5:43 pm,Kokila Venkatesh,Ok mam carry on,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,1,0
+29/07/26,5:45 pm,Rubhini Hope,Will reach you soon,"{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.0258}",0.0258,0.0,0.268,0.732,pos,3,0
+29/07/26,6:14 pm,Rubhini Hope,*Email:* Kokilavenkatesh1516@gmail.com *Name:* Kokila venkatesh *Mobile Number:* 9884602380 *Current Module:* Week 12: Time Series Analysis *Last Studied:* This week *Last Date:* Tue Jul 28 2026 00:00:00 GMT+0530 (India Standard Time) *Feedback:* Yes I can understand but it will take some time to understand the topic. *Anything:* *Mentor Name:* 7305067045(Mrs.Rubhini) *Mentor Reply Time Taken:* ✅ Immediately (Within 15 minutes),"{'neg': 0.0, 'neu': 0.967, 'pos': 0.033, 'compound': 0.2144}",0.2144,0.0,0.033,0.967,pos,4,0
+29/07/26,6:14 pm,Rubhini Hope,Thanks for the update and feedback🤝,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,0.0,0.367,0.633,pos,3,0
+29/07/26,6:14 pm,Kokila Venkatesh,👍,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0,0
+29/07/26,7:08 pm,Rubhini Hope,"Thank you for joining the UltraViewer / Gmeet earlier, which lasted 01:21:00. I trust that our discussion addressed your queries effectively. If you need any additional clarification, don't hesitate to let me know!","{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.8691}",0.8691,0.0,0.286,0.714,pos,4,0
+30/07/26,9:53 am,Kokila Venkatesh,Mam good morning,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,0.0,0.592,0.408,pos,2,0
+30/07/26,9:53 am,Kokila Venkatesh,Shall we connect mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+30/07/26,9:58 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+30/07/26,9:59 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+30/07/26,10:02 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+30/07/26,10:02 am,Kokila Venkatesh,Ok mam done,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,1,0
+30/07/26,11:15 am,Rubhini Hope,Mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+30/07/26,11:15 am,Rubhini Hope,Share the pwd,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,3,0
+30/07/26,11:16 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+30/07/26,11:16 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+30/07/26,11:47 am,Rubhini Hope,"Thank you for joining the UltraViewer / Gmeet earlier, which lasted 00:27:00. I trust that our discussion addressed your queries effectively. If you need any additional clarification, don't hesitate to let me know!","{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.8691}",0.8691,0.0,0.286,0.714,pos,4,0
+30/07/26,5:39 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+30/07/26,5:43 pm,Rubhini Hope,Share the error mam-screenshot once,"{'neg': 0.342, 'neu': 0.38, 'pos': 0.278, 'compound': -0.128}",-0.128,0.342,0.278,0.38,neg,2,0
+30/07/26,5:48 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+30/07/26,5:51 pm,Rubhini Hope,Which line thrown this error mam,"{'neg': 0.385, 'neu': 0.615, 'pos': 0.0, 'compound': -0.481}",-0.481,0.385,0.0,0.615,neg,2,0
+30/07/26,5:54 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+30/07/26,5:59 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+30/07/26,6:09 pm,Rubhini Hope,Could you share the file mam...,"{'neg': 0.0, 'neu': 0.694, 'pos': 0.306, 'compound': 0.296}",0.296,0.0,0.306,0.694,pos,2,0
+30/07/26,6:09 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+30/07/26,6:46 pm,Rubhini Hope,Mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+30/07/26,7:10 pm,Kokila Venkatesh,Mam.... can we do it tomorrow??,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+30/07/26,7:34 pm,Kokila Venkatesh,Sorry mam,"{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.0772}",-0.0772,0.565,0.0,0.435,neg,2,0
+30/07/26,7:34 pm,Kokila Venkatesh,Suddenly I went outside,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+30/07/26,9:12 pm,Rubhini Hope,Okay mam..kindly share the file when you get time.. I'll check and let you know,"{'neg': 0.0, 'neu': 0.76, 'pos': 0.24, 'compound': 0.4767}",0.4767,0.0,0.24,0.76,pos,3,0
+30/07/26,10:14 pm,Kokila Venkatesh,ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+31/07/26,10:33 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,10:35 am,Rubhini Hope,Yes mam.. Upload it in github and share,"{'neg': 0.0, 'neu': 0.55, 'pos': 0.45, 'compound': 0.5994}",0.5994,0.0,0.45,0.55,pos,2,0
+31/07/26,10:35 am,Kokila Venkatesh,Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1,0
+31/07/26,10:39 am,Kokila Venkatesh,https://github.com/Kokila-16/DEEP-LEARNING,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+31/07/26,10:44 am,Rubhini Hope,I'll update mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,10:44 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+31/07/26,10:55 am,Rubhini Hope,python --version pip show tensorflow pip show numpy pip show protobuf pip show h5py pip list,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,10:56 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,10:58 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+31/07/26,11:02 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,11:03 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,11:04 am,Kokila Venkatesh,Mam pip list la its coming more packages,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,11:05 am,Kokila Venkatesh,Only if you connect to ultraview you can see clearly,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4019}",0.4019,0.0,0.231,0.769,pos,3,0
+31/07/26,11:05 am,Kokila Venkatesh,Shall we connect after 2 mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,11:11 am,Rubhini Hope,In a offiev meet mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,11:11 am,Rubhini Hope,Will response mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,11:25 am,Kokila Venkatesh,Ok mam done,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,1,0
+31/07/26,11:41 am,Rubhini Hope,Check it from notebook mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,11:41 am,Rubhini Hope,pip show numpy pip show protobuf pip show h5py pip list,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,11:41 am,Rubhini Hope,And update mam... I'll reach you,"{'neg': 0.0, 'neu': 0.82, 'pos': 0.18, 'compound': 0.0258}",0.0258,0.0,0.18,0.82,pos,2,0
+31/07/26,11:41 am,Rubhini Hope,"Add ""! ""","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,11:42 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,12:06 pm,Kokila Venkatesh,Ok mam got it,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,1,0
+31/07/26,2:32 pm,Kokila Venkatesh,You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,2:34 pm,Kokila Venkatesh,Mam i did,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,2:35 pm,Kokila Venkatesh,Do i have to share or you'll see through ultraview?,"{'neg': 0.0, 'neu': 0.784, 'pos': 0.216, 'compound': 0.296}",0.296,0.0,0.216,0.784,pos,3,0
+31/07/26,2:36 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,2:37 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,2:38 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,2:38 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,2:38 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,2:41 pm,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+31/07/26,2:53 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,2:53 pm,Rubhini Hope,pip uninstall numpy -y pip install numpy==1.24.3,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,2:53 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+31/07/26,2:56 pm,Kokila Venkatesh,Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,1,0
+31/07/26,2:56 pm,Rubhini Hope,Do it in conda prompt mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+31/07/26,2:56 pm,Kokila Venkatesh,Ok mam got it,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.296,0.0,0.423,0.577,pos,1,0
+31/07/26,3:00 pm,Rubhini Hope,👍🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+01/08/26,8:51 am,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+01/08/26,9:53 am,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+01/08/26,10:00 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+01/08/26,6:15 pm,Kokila Venkatesh,Good evening mam,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,0.0,0.592,0.408,pos,2,0
+01/08/26,6:15 pm,Kokila Venkatesh,Mam... i just want to talk to you personally,"{'neg': 0.0, 'neu': 0.843, 'pos': 0.157, 'compound': 0.0772}",0.0772,0.0,0.157,0.843,pos,2,0
+01/08/26,6:15 pm,Kokila Venkatesh,Tell me whenever you are free,"{'neg': 0.0, 'neu': 0.602, 'pos': 0.398, 'compound': 0.5106}",0.5106,0.0,0.398,0.602,pos,2,0
+01/08/26,6:15 pm,Kokila Venkatesh,Just a quick call mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+01/08/26,6:15 pm,Kokila Venkatesh,Thank you,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,0.0,0.714,0.286,pos,4,0
+01/08/26,6:20 pm,Rubhini Hope,Mam! Connected in a meet,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+01/08/26,6:20 pm,Kokila Venkatesh,Its ok mam,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.296,0.0,0.524,0.476,pos,1,0
+01/08/26,6:20 pm,Kokila Venkatesh,Whenever you are free,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.5106}",0.5106,0.0,0.524,0.476,pos,2,0
+01/08/26,6:20 pm,Rubhini Hope,I'll text mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+01/08/26,6:20 pm,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+01/08/26,6:21 pm,Kokila Venkatesh,Not like a urgent.... but whenever you are free today I'll connect mam No rushing 👍,"{'neg': 0.22, 'neu': 0.555, 'pos': 0.225, 'compound': 0.2721}",0.2721,0.22,0.225,0.555,pos,2,0
+01/08/26,6:31 pm,Rubhini Hope,Okay mam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.2263,0.0,0.655,0.345,pos,3,0
+03/08/26,10:21 am,Rubhini Hope,Sorry I was totally occupied yesterday and  Saturday evening... Are you available to discuss mam?,"{'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.0772}",-0.0772,0.091,0.0,0.909,neg,2,0
+03/08/26,11:06 am,Kokila Venkatesh,Yes mam,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,0.0,0.73,0.27,pos,2,0
+03/08/26,11:06 am,Kokila Venkatesh,Thats fine mam,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.2023}",0.2023,0.0,0.474,0.526,pos,2,0
+03/08/26,11:07 am,Kokila Venkatesh,Tell me when you're free today mam... I'll connect through voice call,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.5106}",0.5106,0.0,0.231,0.769,pos,2,0
+03/08/26,11:11 am,Rubhini Hope,Okay mam.. Reach you within 10 mins,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.25}",0.25,0.0,0.375,0.625,pos,3,0
+03/08/26,11:11 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+04/08/26,7:25 pm,Kokila Venkatesh,C.6,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+04/08/26,10:05 pm,Rubhini Hope,4 - because it's declared as Set data type- Set takes only the unique values... So the total count is 4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4,0
+04/08/26,10:15 pm,Kokila Venkatesh,Got it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+05/08/26,6:53 am,Rubhini Hope,"Hi Kokila V 👋, Just checking in regarding your mentorship progress I wanted to personally follow up and understand how your learning journey is going so far. 📚 Your Current Mentorship Progress: 📅 Enrolled Date: *29-05-2024* 🏁 Mentorship End Date: *29-05-2027* ✅ Total Days Completed: *798 Days* ⏳ Remaining Days: *297 Days* 📆 Remaining Duration Left: *9 Months* Kindly take 1 minute to submit your feedback and progress update through the form below 👇 📝 Feedback Form: https://forms.gle/v8kbn61mH9ZgV2zM6 *What help or support are you expecting from our side to fast-track your learning and achieve quicker desired results?* Your consistency matters a lot! Waiting for your update in the next reply 🙌","{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.9551}",0.9551,0.0,0.185,0.815,pos,3,0
+05/08/26,3:01 pm,Rubhini Hope,*Email:* Kokilavenkatesh1516@gmail.com *Name:* Kokila venkatesh *Mobile Number:* 9884602380 *Current Module:* Week 12: Time Series Analysis *Last Studied:* This week *Last Date:* Tue Aug 04 2026 00:00:00 GMT+0530 (India Standard Time) *Feedback:* Yes I can understand but it will take some time to understand the topic. *Anything:* *Mentor Name:* 7305067045(Mrs.Rubhini) *Mentor Reply Time Taken:* ✅ Immediately (Within 15 minutes),"{'neg': 0.0, 'neu': 0.967, 'pos': 0.033, 'compound': 0.2144}",0.2144,0.0,0.033,0.967,pos,4,0
+05/08/26,3:01 pm,Rubhini Hope,Thanks for the update and feedback🤝,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,0.0,0.367,0.633,pos,3,0
+12/08/26,6:53 am,Rubhini Hope,"Hi Kokila V 👋, Just checking in regarding your mentorship progress I wanted to personally follow up and understand how your learning journey is going so far. 📚 Your Current Mentorship Progress: 📅 Enrolled Date: *29-05-2024* 🏁 Mentorship End Date: *29-05-2027* ✅ Total Days Completed: *805 Days* ⏳ Remaining Days: *290 Days* 📆 Remaining Duration Left: *9 Months* Kindly take 1 minute to submit your feedback and progress update through the form below 👇 📝 Feedback Form: https://forms.gle/v8kbn61mH9ZgV2zM6 *What help or support are you expecting from our side to fast-track your learning and achieve quicker desired results?* Your consistency matters a lot! Waiting for your update in the next reply 🙌","{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.9551}",0.9551,0.0,0.185,0.815,pos,3,0
+12/08/26,5:20 pm,Rubhini Hope,*Email:* Kokilavenkatesh1516@gmail.com *Name:* Kokila venkatesh *Mobile Number:* 9884602380 *Current Module:* Week 12: Time Series Analysis *Last Studied:* This week *Last Date:* Tue Aug 11 2026 00:00:00 GMT+0530 (India Standard Time) *Feedback:* Yes I can understand but it will take some time to understand the topic. *Anything:* *Mentor Name:* 7305067045(Mrs.Rubhini) *Mentor Reply Time Taken:* ✅ Immediately (Within 15 minutes),"{'neg': 0.0, 'neu': 0.967, 'pos': 0.033, 'compound': 0.2144}",0.2144,0.0,0.033,0.967,pos,4,0
+12/08/26,5:20 pm,Rubhini Hope,Thanks for the update and feedback🤝 Keep consistent learning💥,"{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.4404}",0.4404,0.0,0.266,0.734,pos,3,0
+14/08/26,8:16 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+14/08/26,10:14 pm,Rubhini Hope,Okay mam... Let me share it,"{'neg': 0.0, 'neu': 0.494, 'pos': 0.506, 'compound': 0.4767}",0.4767,0.0,0.506,0.494,pos,3,0
+14/08/26,10:15 pm,Kokila Venkatesh,👍 👍,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0,0
+14/08/26,10:25 pm,Rubhini Hope,https://github.com/Immanuel688/Deep-Learning,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+14/08/26,10:25 pm,Rubhini Hope,Kindly refer this mam,"{'neg': 0.0, 'neu': 0.484, 'pos': 0.516, 'compound': 0.4939}",0.4939,0.0,0.516,0.484,pos,2,0
+15/08/26,1:57 am,Kokila Venkatesh,Ok mam,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,1,0
+15/08/26,10:21 pm,Kokila Venkatesh,https://github.com/Kokila-16/DEEP-LEARNING/blob/main/ANN1.ipynb,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+15/08/26,10:22 pm,Kokila Venkatesh,just have a look mam.... and correct me if there's any mistakes,"{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.3612}",-0.3612,0.2,0.0,0.8,neg,2,0
+16/08/26,3:12 pm,Rubhini Hope,Okay mam... Let me check it,"{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.2263}",0.2263,0.0,0.275,0.725,pos,3,0
+16/08/26,3:20 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+16/08/26,3:20 pm,Rubhini Hope,Good work👏👏,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}",0.4404,0.0,0.744,0.256,pos,3,0
+16/08/26,3:47 pm,Kokila Venkatesh,Thank you mam,"{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.3612}",0.3612,0.0,0.556,0.444,pos,4,0
+16/08/26,3:50 pm,Rubhini Hope,Keep learning,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3,0
+16/08/26,3:54 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+16/08/26,9:00 pm,Rubhini Hope,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+16/08/26,9:02 pm,Kokila Venkatesh,Draft na epdi mam ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+16/08/26,9:29 pm,Rubhini Hope,Message that you've skipped the project as of now mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
+16/08/26,9:39 pm,Kokila Venkatesh,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0,0
+17/08/26,7:23 am,Kokila Venkatesh,Why im asking is.... I'll plan accordingly mam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2,0
